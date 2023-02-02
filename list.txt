@@ -1,0 +1,61 @@
+
+echo "# JavaScrict-problems-with-Solution" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Mdsakib999/JavaScrict-problems-with-Solution.git
+git push -u origin main
+
+
+
+*** Name list of all Problems ***
+
+
+1. The grading chart?
+2. You are given three numbers 13, 79, and 45. Write a program that will print the
+largest number using if-else.
+
+3. You are given a triangle with the sides 9, 8, 9. Write a program to check whether a
+triangle is Isosceles or not using if-else.
+
+4. Find all even and odd number from a range?
+
+5. Print a table containing multiplication tables?
+
+6. // Simple function related Problem. Calculate your average marks?
+
+7. Write a function that will take hour as the input parameter and will convert it into minutes and will return the result in minutes.
+
+8. Write a function findOddSum() that will take the array [5, 7, 8, 10, 45, 30]
+as the input parameter and will return the sum of the odd numbers.
+
+9. তোমার বয়স কি odd নাকি even সংখ্যা সেটা চেক কর একটা ফাংশন দিয়ে। সেই ফাংশনকে কোন সংখ্যা প্যারামিটার হিসেবে দিলে, সেই সংখ্যা Even হলে ফাংশন true রিটার্ন করবে আর Odd হলে false রিটার্ন করবে।
+10. 
+11. Check whether a year is a Leap Year or not?
+
+12. Factorial
+
+13. Write a function to add all element of an array? 
+ 
+14. একটা ফাংশন লিখবা যেটাকে তুমি কোন সংখ্যাকে ইনপুট হিসেবে দিলে সে সেই সংখ্যার square করে সেই square কে রিটার্ন করবে। অর্থাৎ তুমি ইনপুট হিসেবে 5 দিলে সেটাতে স্কয়ারে হিসেবে 25 আউটপুট হিসেবে পাবে। 
+
+15. Add 2 string using function.
+
+16. Swap variable, swap without temp and with.
+
+17. Max number among 3 number using function.
+
+18. min number among number using function.
+
+19. // Find the largest element/number of an array?
+
+20. // Find the smallest element/number of an array?
+
+21. Calculate the area of a triangle using function, vllue of 3 sides are given.
+
+22. Prime number.
+
+23. Reverse a string (letter or word)
+
+24. Fibonacci series.
