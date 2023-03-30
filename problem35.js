@@ -2,6 +2,7 @@
 
 
 function woodCount(chair, bed, table) {
+    
     let chairWood = chair * 3;
     let bedWood = bed * 5;
     let tableWood = table * 10;
