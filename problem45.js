@@ -1,4 +1,4 @@
-
+// Q: JavaScript function to get the current date.?
 
 
 
