@@ -25,7 +25,7 @@ console.log(a, b); */
 
 
 
-// another way
+// another way to do
 
 let x = 10;
 let y = 20;
