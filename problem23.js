@@ -15,9 +15,8 @@ console.log(Reverse_str);
 
 
 
-
-//--------------------------------- 
-//----------Another way-----
+ 
+//----------Another way------------
 // -----------word Reverse------------------ 
 
 let str = "sakib vai boi nai";
@@ -28,7 +27,7 @@ console.log(rev_str);
 
 
 // -------------word reverse------------
-
+//----------Another way-----------
 
 function revWord(srt) {
    let rev_str = [];
