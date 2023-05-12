@@ -1,7 +1,7 @@
 // Fibonacci series.
 
-var a=0, b=1,sum,i;
-var n= 10;
+let a = 0, b = 1, sum, i;
+let n = 10;
 for(i = 1; i <= n; i++) {
     console.log(a);
     sum= a + b;
@@ -14,7 +14,7 @@ for(i = 1; i <= n; i++) {
 
 let fibo = [0, 1];
 
-for(var i = 2; i<= 20; i++) {
+for(var i = 2; i <= 20; i++) {
     fibo[i] = fibo[i - 1] + fibo[i - 2];
 }
 
