@@ -1,14 +1,14 @@
-// // Find the second largest element of an array?
+// // Find the second largest element of an array???
 
 
 function secondLargest ( numbers ) {
         
         let sort_arr = numbers.sort((a, b) => a -b).reverse();
         let second_lrg = sort_arr[1];
+        
         // let second_lrg = sort_arr[sort_arr.length -2];  //ai tai reverse korte hobe na.
 
 
-    
         return second_lrg;
     }
 
