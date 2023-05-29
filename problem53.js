@@ -1,4 +1,4 @@
-// Print a table containing multiplication tables?
+// Print a table of containing multiplication tables?
 
 
 
