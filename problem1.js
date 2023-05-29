@@ -9,7 +9,7 @@ and John’s total score is 40. The grading chart is
 40 or above D grade
 39 or less => F grade
 
-Write a program to find your and your friends’ grades using if-else.
+Write a program to find your and your friend's grades using if-else.
 
 */
 
