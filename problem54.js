@@ -12,4 +12,4 @@ var assignment3 = 60;
 
 var myAverage= ave(assignment1, assignment2, assignment3);
 
-console.log("My average marks:", myAverage.toFixed(2))
+console.log("My average marks:", myAverage.toFixed(2));
