@@ -58,7 +58,7 @@ console.log("Is it leap year?",year); */
 
 
 /* 
-// ----------------
+// ----------------Using Function-------------------
 
 function leapYear(year) {
     let lip_year = [];
