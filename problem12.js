@@ -1,4 +1,4 @@
-// Factorial
+// Calculate the Factorial of given number...........
 
 
 function factorial(num) {
