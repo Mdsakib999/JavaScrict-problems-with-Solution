@@ -10,7 +10,6 @@ function factorial(num) {
     return sum;
 }
 
-
 let number = 5;
 let my_fact = factorial(number);
 console.log("Factorial of",number,"is", my_fact);
