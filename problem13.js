@@ -14,4 +14,4 @@ function findSum(num) {
 
 let arr = [5, 7, 8, 10, 45, 30];
 
-console.log("Total sum of all element =",findSum(arr));
+console.log("Total sum of all element = ",findSum(arr));
