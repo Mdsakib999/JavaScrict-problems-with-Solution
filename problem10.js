@@ -1,8 +1,6 @@
 // Write a program to show output of multiplication table?
 
 
-
-
 var i;
 
 function multi_table(a) {
