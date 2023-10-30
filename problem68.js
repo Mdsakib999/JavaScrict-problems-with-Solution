@@ -27,6 +27,8 @@
       }
     }
 
+
+    changeBackgroundColor('myDiv', 'green');
    
   </script>
 </body>
