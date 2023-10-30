@@ -6,7 +6,9 @@
 <head>
   <style>
     .my-element {
-      
+      width: 200px;
+      height: 200px;
+      background-color: red;
     }
   </style>
 </head>
