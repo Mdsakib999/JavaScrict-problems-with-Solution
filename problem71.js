@@ -1,8 +1,7 @@
-// 
+// Write a function program to filter out the specified values from a specified array.
 
 
 
-//#Source https://bit.ly/2neWfJ2
 function pull(arr, ...args) {
   let pulled = [];
   arr.forEach((v, i) => {
