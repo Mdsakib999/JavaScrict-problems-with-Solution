@@ -2,8 +2,8 @@
 
 
 function alphabet_char_Shift(str) {
-  var all_chars = str.split("");
-  for(var i = 0; i < all_chars.length; i++) {
+  var allChars = str.split("");
+  for(lat i = 0; i < allChars.length; i++) {
     var n = all_chars[i].charCodeAt() - 'a'.charCodeAt();
     n = (n + 1) % 26; 
     all_chars[i] = String.fromCharCode(n + 'a'.charCodeAt());
