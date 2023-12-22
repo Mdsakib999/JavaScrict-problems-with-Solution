@@ -3,12 +3,12 @@
 
 function alphabet_char_Shift(str) {
   var allChars = str.split("");
-  for(lat i = 0; i < allChars.length; i++) {
-    var n = all_chars[i].charCodeAt() - 'a'.charCodeAt();
+  for(let i = 0; i < allChars.length; i++) {
+    var n = allChars[i].charCodeAt() - 'a'.charCodeAt();
     n = (n + 1) % 26; 
-    all_chars[i] = String.fromCharCode(n + 'a'.charCodeAt());
+    allChars[i] = String.fromCharCode(n + 'a'.charCodeAt());
   }
-  return all_chars.join("");
+  return allChars.join("");
 }
 
 console.log(alphabet_char_Shift("abcdxyz"));
