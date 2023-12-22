@@ -11,5 +11,5 @@ function alphabet_char_Shift(str) {
   return all_chars.join("");
 }
 
-console.log(alphabet_char_Shift("abcdxyz"))
+console.log(alphabet_char_Shift("abcdxyz"));
 
