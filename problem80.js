@@ -1,4 +1,4 @@
-
+// Write a JavaScript program to find the largest value between the first and last elements and set all the other elements to that value. 
 
 
 function all_max(nums) {
