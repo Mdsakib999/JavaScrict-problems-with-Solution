@@ -1,6 +1,11 @@
 // Q: Write a function to check the given objects are equal or not, and how does it determine the equality of two objects?
 
 
+function ObjectsEqual(obj1, obj2) {
+  return Object.keys(obj1).every(key => obj1[key] === obj2[key]) && Object.keys(obj1).length === Object.keys(obj2).length;
+}
+
+
 
 
 
