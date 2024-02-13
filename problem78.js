@@ -5,6 +5,9 @@ function ObjectsEqual(obj1, obj2) {
   return Object.keys(obj1).every(key => obj1[key] === obj2[key]) && Object.keys(obj1).length === Object.keys(obj2).length;
 }
 
+const object1 = { a: 1, b: 2 };
+const object2 = { b: 2, a: 1 };
+
 
 
 
