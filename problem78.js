@@ -1,6 +1,12 @@
 // Q: Write a function to check the given objects are equal or not, and how does it determine the equality of two objects?
 
 
+
+
+
+
+// Another Way
+
 function ObjectsEqual(obj1, obj2) {
     const keys1 = Object.keys(obj1);
     const keys2 = Object.keys(obj2);
