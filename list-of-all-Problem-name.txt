@@ -59,3 +59,15 @@ as the input parameter and will return the sum of the odd numbers.
 23. Reverse a string (letter or word)
 
 24. Fibonacci series.
+
+25. 
+
+26. 
+
+27. 
+
+28. 
+
+29. 
+
+30.
