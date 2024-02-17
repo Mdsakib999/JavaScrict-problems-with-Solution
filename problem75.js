@@ -9,4 +9,5 @@ const divide_Numbers = (n1, n2) => {
 };
 
 
-
+console.log(divide_Numbers(8, 3));
+console.log(divide_Numbers(8, 0));
