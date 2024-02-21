@@ -31,7 +31,9 @@ triangle is Isosceles or not using if-else.
 as the input parameter and will return the sum of the odd numbers.
 
 9. তোমার বয়স কি odd নাকি even সংখ্যা সেটা চেক কর একটা ফাংশন দিয়ে। সেই ফাংশনকে কোন সংখ্যা প্যারামিটার হিসেবে দিলে, সেই সংখ্যা Even হলে ফাংশন true রিটার্ন করবে আর Odd হলে false রিটার্ন করবে।
-10. 
+
+10. Write a program to show output of multiplication table? (Namata)
+
 11. Check whether a year is a Leap Year or not?
 
 12. Factorial
