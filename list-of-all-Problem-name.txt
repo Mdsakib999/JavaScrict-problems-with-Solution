@@ -68,7 +68,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 27. rite foo, bar, foobar if divisible by 3 or 5 or both. (Fizz baz)?
 
-28. 
+28. return element of an particular range of an array?
 
 29. 
 
