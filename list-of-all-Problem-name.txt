@@ -62,7 +62,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 24. Fibonacci series.
 
-25. 
+25. Find the second largest element of an array???
 
 26. 
 
