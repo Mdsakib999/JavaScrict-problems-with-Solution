@@ -64,7 +64,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 25. Find the second largest element of an array???
 
-26. 
+26. Remove duplicate items from an array?
 
 27. 
 
