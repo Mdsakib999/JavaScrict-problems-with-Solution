@@ -66,7 +66,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 26. Remove duplicate items from an array?
 
-27. 
+27. rite foo, bar, foobar if divisible by 3 or 5 or both. (Fizz baz)?
 
 28. 
 
