@@ -70,6 +70,6 @@ as the input parameter and will return the sum of the odd numbers.
 
 28. return element of an particular range of an array?
 
-29. 
+29. Check an element have or not in an array??
 
 30.
