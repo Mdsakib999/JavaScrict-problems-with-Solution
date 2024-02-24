@@ -73,3 +73,5 @@ as the input parameter and will return the sum of the odd numbers.
 29. Check an element have or not in an array??
 
 30. Check VOWEL or CONSONANT?
+
+31. Convert Fahrenheit to Celsius
