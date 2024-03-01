@@ -75,3 +75,21 @@ as the input parameter and will return the sum of the odd numbers.
 30. Check VOWEL or CONSONANT?
 
 31. Convert Fahrenheit to Celsius
+
+32. 
+
+33. 
+
+34. 
+
+35. 
+
+36. 
+
+37. 
+
+38. 
+
+39. 
+
+40. 
