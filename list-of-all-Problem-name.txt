@@ -76,7 +76,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 31. Convert Fahrenheit to Celsius
 
-32. 
+32. Average element of an array.
 
 33. 
 
