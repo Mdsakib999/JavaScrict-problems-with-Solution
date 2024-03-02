@@ -78,7 +78,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 32. Average element of an array.
 
-33. 
+33. All about Object.
 
 34. 
 
