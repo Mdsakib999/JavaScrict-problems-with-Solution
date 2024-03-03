@@ -1,4 +1,4 @@
-// Use add and multiplication to calculate wood requirements
+// Use add and multiplication to calculate wood requirements?
 
 
 function woodCount(chair, bed, table) {
