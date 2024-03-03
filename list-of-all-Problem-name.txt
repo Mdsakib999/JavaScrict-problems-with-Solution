@@ -82,7 +82,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 34.  First name এবং Last name ইনপুট প্যারামিটার হিসেবে দিলে আউটপুট হিসেবে exp: (hablu kanto) রিটার্ন করবে।
 
-35. 
+35. Use add and multiplication to calculate wood requirements? 
 
 36. 
 
