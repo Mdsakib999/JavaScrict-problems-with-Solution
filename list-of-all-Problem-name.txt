@@ -86,6 +86,8 @@ as the input parameter and will return the sum of the odd numbers.
 
 36. Object related problem ( Find the cheapest phone (object inside array) )
 
+37. Practical problem -----Total price of shooping cart (object & array)--------
+
 37.1 Math -- Discunt in tickte price. -- 
 
 38. 
