@@ -84,7 +84,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 35. Use add and multiplication to calculate wood requirements? 
 
-36. 
+36. Object related problem ( Find the cheapest phone (object inside array) )
 
 37. 
 
