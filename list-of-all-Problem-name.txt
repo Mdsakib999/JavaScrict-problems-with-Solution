@@ -92,6 +92,6 @@ as the input parameter and will return the sum of the odd numbers.
 
 38. Find the largest string of an array.
 
-39. 
+39. Find positive element from an array?
 
 40. 
