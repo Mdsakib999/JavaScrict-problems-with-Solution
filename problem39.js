@@ -1,4 +1,4 @@
-// find positive element from an array
+// Find the positive element from an array?
 
 
 var arr = [10, 20, 30, -40, 22,14];
