@@ -1,4 +1,4 @@
-// for of and for in loop
+// When or How to use for of and for in loop?
 
 
 let array = [5,66,4,88,90];
