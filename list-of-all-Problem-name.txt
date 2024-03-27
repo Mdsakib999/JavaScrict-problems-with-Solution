@@ -94,4 +94,4 @@ as the input parameter and will return the sum of the odd numbers.
 
 39. Find positive element from an array?
 
-40. 
+40. for of and for in loop?
