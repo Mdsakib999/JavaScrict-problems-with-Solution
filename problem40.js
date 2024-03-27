@@ -8,6 +8,8 @@ for(let i of array) {
     console.log(i);
 }
 
+------------------------------------
+    
 
     // shows array index.
 for(var i in array) {
