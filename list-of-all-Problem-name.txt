@@ -106,4 +106,5 @@ as the input parameter and will return the sum of the odd numbers.
 
 45. 
 
+83. Check whether all the number are the same or not?
 
