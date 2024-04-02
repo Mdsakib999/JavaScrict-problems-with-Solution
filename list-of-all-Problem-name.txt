@@ -96,7 +96,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 40. for of and for in loop?
 
-41. 
+41. Object related problem.
 
 42. 
 
