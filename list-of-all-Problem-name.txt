@@ -98,7 +98,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 41. Object related problem.
 
-42. 
+42. Calculate salary
 
 43. 
 
