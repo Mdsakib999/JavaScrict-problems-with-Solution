@@ -100,7 +100,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 42. Calculate salary
 
-43. 
+43. Upper case converter.
 
 44. 
 
