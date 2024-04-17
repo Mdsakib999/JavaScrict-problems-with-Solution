@@ -106,7 +106,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 45. Current Date?
 
-46. 
+46. function to add specified minutes to a Date object?
 
 47. 
 
