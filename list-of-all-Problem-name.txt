@@ -104,7 +104,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 44. Q: Generates all combinations of a string.
 
-45. 
+45. Current Date?
 
 46. 
 
