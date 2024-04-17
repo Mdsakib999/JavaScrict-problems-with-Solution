@@ -102,9 +102,20 @@ as the input parameter and will return the sum of the odd numbers.
 
 43. Upper case converter.
 
-44. 
+44. Q: Generates all combinations of a string.
 
 45. 
+
+46. 
+
+47. 
+
+48. 
+
+49. 
+
+50. 
+
 
 83. Check whether all the number are the same or not?
 
