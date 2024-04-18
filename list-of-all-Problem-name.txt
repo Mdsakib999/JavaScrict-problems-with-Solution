@@ -110,7 +110,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 47. 
 
-48. 
+48. Max number
 
 49. 
 
