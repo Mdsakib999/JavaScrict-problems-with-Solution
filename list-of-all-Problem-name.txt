@@ -108,7 +108,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 46. function to add specified minutes to a Date object?
 
-47. 
+47. last digits provided positive integers or not.
 
 48. Max number
 
