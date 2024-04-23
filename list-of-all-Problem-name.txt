@@ -114,7 +114,18 @@ as the input parameter and will return the sum of the odd numbers.
 
 49. 
 
-50. 
+50. Find largest number
+
+51. 
+
+52. 
+
+53. 
+
+54. 
+
+55. 
+
 
 
 83. Check whether all the number are the same or not?
