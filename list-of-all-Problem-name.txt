@@ -116,7 +116,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 50. Find largest number
 
-51. 
+51. IS triangle Isosceles or not?
 
 52. 
 
