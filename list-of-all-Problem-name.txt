@@ -112,7 +112,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 48. Max number
 
-49. 
+49. Sort the array items. 
 
 50. Find largest number
 
