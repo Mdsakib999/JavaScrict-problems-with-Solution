@@ -10,4 +10,12 @@ var arr2 = [];
 
 var max = Math.max(...arr1);
 
+for (var i = 0; i < arr1.length; i++) {
+    var min = Math.min(...arr1.filter(num => num !== "x"));
+    var pos = arr1.indexOf(min);
+    arr2[i] = min;
+    arr1[pos] = "x";
+}
 
+
+console.log(arr2);
