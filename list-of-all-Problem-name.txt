@@ -118,7 +118,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 51. IS triangle Isosceles or not?
 
-52. 
+52. Basic problems. (Even, Odd)
 
 53. 
 
