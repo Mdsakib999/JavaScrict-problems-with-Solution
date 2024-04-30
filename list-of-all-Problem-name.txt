@@ -124,7 +124,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 54. Calculate your average marks?
 
-55. 
+55. Hour convert into minutes ?
 
 
 
