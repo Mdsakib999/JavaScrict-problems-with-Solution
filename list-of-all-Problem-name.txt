@@ -126,6 +126,17 @@ as the input parameter and will return the sum of the odd numbers.
 
 55. Hour convert into minutes ?
 
+56. Write a function array as input parameter and return the sum of the odd numbers.
+
+
+57. 
+
+58. 
+
+59. 
+
+60. 
+
 
 
 83. Check whether all the number are the same or not?
