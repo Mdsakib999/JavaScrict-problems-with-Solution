@@ -130,7 +130,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 57. Check your age is even or odd?
 
-58. 
+58.  This function takes 3 number as parameter and calculate them according to given instructions.
 
 59. 
 
