@@ -132,7 +132,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 58.  This function takes 3 number as parameter and calculate them according to given instructions.
 
-59. 
+59. JavaScript program to capitalize the first letter of each word
 
 60. 
 
