@@ -136,6 +136,27 @@ as the input parameter and will return the sum of the odd numbers.
 
 60. All the digits in a given number are the same or not?
 
+61. 
+
+62. 
+
+63. 
+
+64. 
+
+65. 
+
+66. 
+
+67. 
+
+68. 
+
+69. 
+
+70. 
+
+
 
 
 83. Check whether all the number are the same or not?
