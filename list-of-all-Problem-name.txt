@@ -136,7 +136,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 60. All the digits in a given number are the same or not?
 
-61. 
+61. Display the current day and time.
 
 62. 
 
