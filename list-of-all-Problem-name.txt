@@ -138,7 +138,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 61. Display the current day and time.
 
-62. 
+62. create and display a Singly Linked List.
 
 63. 
 
