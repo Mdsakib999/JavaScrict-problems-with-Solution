@@ -140,7 +140,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 62. create and display a Singly Linked List.
 
-63. 
+63. Binary number to a decimal number.
 
 64. 
 
