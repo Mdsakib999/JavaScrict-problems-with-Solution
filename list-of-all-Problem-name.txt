@@ -150,7 +150,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 67. A button and show a message by clicking on it using (event listener)
 
-68. 
+68. Code that changes the background color of an element
 
 69. 
 
