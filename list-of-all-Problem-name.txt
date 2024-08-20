@@ -148,7 +148,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 66. Function that accepts an argument and check the type.
 
-67. 
+67. A button and show a message by clicking on it using (event listener)
 
 68. 
 
