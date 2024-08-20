@@ -146,7 +146,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 65. Remove duplicate items from an array
 
-66. 
+66. Function that accepts an argument and check the type.
 
 67. 
 
