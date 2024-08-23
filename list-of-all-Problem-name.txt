@@ -160,7 +160,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 72. Convert a given string's length to bytes.
 
-73. 
+73. Get the nth element of a given array of elements.
 
 74. 
 
