@@ -158,7 +158,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 71. filter out the specified values from a specified array.
 
-72. 
+72. Convert a given string's length to bytes.
 
 73. 
 
