@@ -154,7 +154,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 69. JavaScript exercise to get the filename extension.
 
-70. 
+70. Check an 'input' is a date object or not.
 
 
 
