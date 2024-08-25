@@ -164,7 +164,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 74. A program to capitalize the first letter of each word?
 
-75. 
+75.  A function accepts two numbers and Return a custom 'Error' if the second number is zero.
 
 76. 
 
