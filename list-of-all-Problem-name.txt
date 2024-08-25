@@ -162,7 +162,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 73. Get the nth element of a given array of elements.
 
-74. 
+74. A program to capitalize the first letter of each word?
 
 75. 
 
