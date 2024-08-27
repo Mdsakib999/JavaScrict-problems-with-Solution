@@ -182,3 +182,5 @@ as the input parameter and will return the sum of the odd numbers.
 
 83. Check whether all the number are the same or not?
 
+84. Generates a random password with JS.
+
