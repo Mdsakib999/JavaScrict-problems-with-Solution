@@ -19,3 +19,8 @@ const generatePassword = (length, complexity) => {
 };
 
 
+// Example usage:
+const passwordLength = 8;
+const passwordComplexity = ['lowercase', 'uppercase', 'numbers', 'symbols'];
+const generatedPassword = generatePassword(passwordLength, passwordComplexity);
+console.log(generatedPassword);
