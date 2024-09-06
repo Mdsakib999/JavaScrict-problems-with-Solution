@@ -166,7 +166,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 75.  A function accepts two numbers and Return a custom 'Error' if the second number is zero.
 
-76. 
+76. A function for Replace each character of a given string by the next one in the English alphabet.
 
 77. 
 
