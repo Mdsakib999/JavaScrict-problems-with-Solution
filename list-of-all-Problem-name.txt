@@ -170,7 +170,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 77. Find the number of elements in both arrays.
 
-78. 
+78. Check the given objects are equal or not.
 
 79. 
 
