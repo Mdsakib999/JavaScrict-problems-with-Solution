@@ -172,7 +172,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 78. Check the given objects are equal or not.
 
-79. 
+79. Print (Print Page) the current window contents
 
 80. 
 
