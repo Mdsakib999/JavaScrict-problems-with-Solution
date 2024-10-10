@@ -176,7 +176,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 80. find the largest value between the first and last elements.
 
-81. 
+81. function that returns a string that has letters in alphabetical order
 
 82.
 
