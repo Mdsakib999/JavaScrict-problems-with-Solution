@@ -178,7 +178,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 81. function that returns a string that has letters in alphabetical order
 
-82.
+82. Finds the second lowest and second greatest numbers of an array?
 
 83. Check whether all the number are the same or not?
 
