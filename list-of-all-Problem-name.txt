@@ -184,3 +184,16 @@ as the input parameter and will return the sum of the odd numbers.
 
 84. Generates a random password with JS.
 
+85. Check if a String is a Palindrome or not?
+
+86. 
+
+87. 
+
+88. 
+
+89. 
+
+90. 
+
+
