@@ -188,7 +188,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 86. 
 
-87. 
+87.  DSA Implement a Stack
 
 88. 
 
