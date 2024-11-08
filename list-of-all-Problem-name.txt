@@ -186,7 +186,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 85. Check if a String is a Palindrome or not?
 
-86. 
+86. ****************************************************** Loading Component ******************************************************
 
 87.  DSA Implement a Stack
 
