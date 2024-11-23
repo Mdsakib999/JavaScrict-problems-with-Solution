@@ -18,7 +18,6 @@ const generatePassword = (length, complexity) => {
   ).join('');
 };
 
-
 // Example usage:
 const passwordLength = 8;
 const passwordComplexity = ['lowercase', 'uppercase', 'numbers', 'symbols'];
