@@ -192,7 +192,7 @@ as the input parameter and will return the sum of the odd numbers.
 
 88. Group Anagrams (DSA)
 
-89. 
+89. Trinomial tringal solution
 
 90. 
 
